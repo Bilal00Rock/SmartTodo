@@ -1,0 +1,23 @@
+using FluentValidation;
+using Microsoft.Extensions.DependencyInjection;
+using SmartTodo.Application.Common.Behaviors;
+namespace SmartTodo.Application;
+
+
+public static class DependencyInjection
+{
+    public static IServiceCollection AddApplication(this IServiceCollection services)
+    {
+        services.AddMediatR(options =>
+        {
+            options.RegisterServicesFromAssemblyContaining(typeof(DependencyInjection));
+            //adding Validator to MediatR Pipeline
+            options.AddOpenBehavior(typeof(ValidationBehavior<,>));
+            options.AddOpenBehavior(typeof(AuthorizationBehavior<,>));
+        });
+
+        services.AddValidatorsFromAssemblyContaining(typeof(DependencyInjection));
+
+        return services;
+    }
+}

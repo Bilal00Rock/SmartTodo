@@ -1,0 +1,11 @@
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/bin/Debug/net8.0/SmartTodo.Domain.deps.json
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/bin/Debug/net8.0/SmartTodo.Domain.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/bin/Debug/net8.0/SmartTodo.Domain.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/obj/Debug/net8.0/SmartTodo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/obj/Debug/net8.0/SmartTodo.Domain.AssemblyInfoInputs.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/obj/Debug/net8.0/SmartTodo.Domain.AssemblyInfo.cs
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/obj/Debug/net8.0/SmartTodo.Domain.csproj.CoreCompileInputs.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/obj/Debug/net8.0/SmartTodo.Domain.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/obj/Debug/net8.0/refint/SmartTodo.Domain.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/obj/Debug/net8.0/SmartTodo.Domain.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Domain/obj/Debug/net8.0/ref/SmartTodo.Domain.dll

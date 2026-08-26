@@ -1,0 +1,15 @@
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/bin/Debug/net10.0/SmartTodo.Application.deps.json
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/bin/Debug/net10.0/SmartTodo.Application.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/bin/Debug/net10.0/SmartTodo.Application.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/bin/Debug/net10.0/SmartTodo.Domain.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/bin/Debug/net10.0/SmartTodo.Domain.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/SmartTodo.Application.csproj.AssemblyReference.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/SmartTodo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/SmartTodo.Application.AssemblyInfoInputs.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/SmartTodo.Application.AssemblyInfo.cs
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/SmartTodo.Application.csproj.CoreCompileInputs.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/SmartTod.9581EC14.Up2Date
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/SmartTodo.Application.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/refint/SmartTodo.Application.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/SmartTodo.Application.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Application/obj/Debug/net10.0/ref/SmartTodo.Application.dll

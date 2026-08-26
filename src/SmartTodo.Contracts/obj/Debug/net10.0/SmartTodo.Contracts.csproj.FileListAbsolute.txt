@@ -1,0 +1,11 @@
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/bin/Debug/net10.0/SmartTodo.Contracts.deps.json
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/bin/Debug/net10.0/SmartTodo.Contracts.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/bin/Debug/net10.0/SmartTodo.Contracts.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/obj/Debug/net10.0/SmartTodo.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/obj/Debug/net10.0/SmartTodo.Contracts.AssemblyInfoInputs.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/obj/Debug/net10.0/SmartTodo.Contracts.AssemblyInfo.cs
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/obj/Debug/net10.0/SmartTodo.Contracts.csproj.CoreCompileInputs.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/obj/Debug/net10.0/SmartTodo.Contracts.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/obj/Debug/net10.0/refint/SmartTodo.Contracts.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/obj/Debug/net10.0/SmartTodo.Contracts.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Contracts/obj/Debug/net10.0/ref/SmartTodo.Contracts.dll

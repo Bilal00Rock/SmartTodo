@@ -1,0 +1,17 @@
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/bin/Debug/net8.0/SmartTodo.Infrastructure.deps.json
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/bin/Debug/net8.0/SmartTodo.Infrastructure.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/bin/Debug/net8.0/SmartTodo.Infrastructure.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/bin/Debug/net8.0/SmartTodo.Application.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/bin/Debug/net8.0/SmartTodo.Domain.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/bin/Debug/net8.0/SmartTodo.Application.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/bin/Debug/net8.0/SmartTodo.Domain.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/SmartTodo.Infrastructure.csproj.AssemblyReference.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/SmartTodo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/SmartTodo.Infrastructure.AssemblyInfoInputs.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/SmartTodo.Infrastructure.AssemblyInfo.cs
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/SmartTodo.Infrastructure.csproj.CoreCompileInputs.cache
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/SmartTod.9022EFAE.Up2Date
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/SmartTodo.Infrastructure.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/refint/SmartTodo.Infrastructure.dll
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/SmartTodo.Infrastructure.pdb
+/home/bilalrock/Documents/Projects.Net/Todo/src/SmartTodo.Infrastructure/obj/Debug/net8.0/ref/SmartTodo.Infrastructure.dll

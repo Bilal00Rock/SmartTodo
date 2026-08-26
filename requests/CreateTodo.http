@@ -1,0 +1,12 @@
+@host=http://localhost:5289
+@adminId=3fa85f64-5717-4562-b3fc-2c963f66afa6
+### Show the actual request
+@verbose=true
+POST {{host}}/Todo
+Content-Type: application/json
+
+{
+  "title": "string",
+  "todoType": "Urgent",
+  "adminId": "{{adminId}}"
+}
